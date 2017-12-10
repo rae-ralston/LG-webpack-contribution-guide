@@ -19,7 +19,7 @@ Our first project is to upgrade the plugins to the new webpack 4.0.0-alpha.
   - [github: Artsy Webpack Tour](https://github.com/TheLarkInn/artsy-webpack-tour)
   - [github: Everything is a Plugin](https://github.com/TheLarkInn/everything-is-a-plugin)
 
-The Contributors Guide to Webpack:
+- The Contributors Guide to Webpack:
   - [Part 1: A(n) (eco)system overview](https://medium.com/webpack/the-contributors-guide-to-webpack-part-1-a0410cc82ca4)
   - [Part 2: Diving Deeper: Tapable, plugins and design patterns!](https://medium.com/webpack/the-contributors-guide-to-webpack-part-2-9fd5e658e08c)
   - [Part 3: Building the Dependency Graph](https://medium.com/webpack/the-contributors-guide-to-webpack-part-3-44cc149af02c)
