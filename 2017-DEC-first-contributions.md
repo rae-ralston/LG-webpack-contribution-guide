@@ -16,10 +16,10 @@
 ### But how does it work tho...
 - [Webpack's Contributing Documentation](https://github.com/webpack/webpack/blob/master/CONTRIBUTING.md)
 - ARTICLE: The Contributors Guide to Webpack:
-- [Part 1: A(n) (eco)system overview](https://medium.com/webpack/the-contributors-guide-to-webpack-part-1-a0410cc82ca4)
-- [Part 2: Diving Deeper: Tapable, plugins and design patterns!](https://medium.com/webpack/the-contributors-guide-to-webpack-part-2-9fd5e658e08c)
-- [Part 3: Building the Dependency Graph](https://medium.com/webpack/the-contributors-guide-to-webpack-part-3-44cc149af02c)
-- [VIDEO: Everything is a plugin! Mastering webpack from the inside out](https://www.youtube.com/watch?v=4tQiJaFzuJ8): this video is great and helped me understand the relevance of plugins. Links mentioned in the talk:
+  - Part 1: [A(n) (eco)system overview](https://medium.com/webpack/the-contributors-guide-to-webpack-part-1-a0410cc82ca4)
+  - Part 2: [Diving Deeper: Tapable, plugins and design patterns!](https://medium.com/webpack/the-contributors-guide-to-webpack-part-2-9fd5e658e08c)
+  - Part 3: [Building the Dependency Graph](https://medium.com/webpack/the-contributors-guide-to-webpack-part-3-44cc149af02c)
+- VIDEO: [Everything is a plugin! Mastering webpack from the inside out](https://www.youtube.com/watch?v=4tQiJaFzuJ8): this video is great and helped me understand the relevance of plugins. Links mentioned in the talk:
   - [github: Artsy Webpack Tour](https://github.com/TheLarkInn/artsy-webpack-tour)
   - [github: Everything is a Plugin](https://github.com/TheLarkInn/everything-is-a-plugin)
 - ARTICLE: [The new plugin system (week 22–23)](https://medium.com/webpack/the-new-plugin-system-week-22-23-c24e3b22e95)
