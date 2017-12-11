@@ -22,5 +22,6 @@
 - VIDEO: [Everything is a plugin! Mastering webpack from the inside out](https://www.youtube.com/watch?v=4tQiJaFzuJ8): this video is great and helped me understand the relevance of plugins. Links mentioned in the talk:
   - [github: Artsy Webpack Tour](https://github.com/TheLarkInn/artsy-webpack-tour)
   - [github: Everything is a Plugin](https://github.com/TheLarkInn/everything-is-a-plugin)
+- VIDEO: [Sean's Twitch stream from 10/9](https://www.twitch.tv/videos/208289699) where he goes over how webpack works and makes contributions.
 - ARTICLE: [The new plugin system (week 22–23)](https://medium.com/webpack/the-new-plugin-system-week-22-23-c24e3b22e95)
 - VIDEO: [From start to finish: A 20-ish minute contribution to webpack](https://www.youtube.com/watch?v=ePdXHF2DfeY&feature=youtu.be)
