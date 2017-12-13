@@ -3,6 +3,7 @@
 ## ISSUES
 - [D0 - 1st Contribution](https://github.com/webpack/webpack/issues?q=is%3Aissue+is%3Aopen+label%3A%22D0%3A+My+First+Commit+%28Contrib.+Difficulty%29%22)
 - [D1 - Easy Difficulty](https://github.com/webpack/webpack/issues?q=is%3Aissue+is%3Aopen+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)
+- [X5 - Work Required/ Help Needed](https://github.com/webpack/webpack/labels/X5%3A%20work%20required%20%28PR%20%2F%20Help%20Wanted%29)
 
 ## TODOS
 - upgrade the plugins api to match changes in webpack 4.0.0-alpha.
