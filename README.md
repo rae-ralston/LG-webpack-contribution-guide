@@ -2,16 +2,16 @@
 A (WIP) guide for first time contributors to the webpack ecosystem.
 
 1. Familiarize yourself with how you contribute to Open Source generally. If you've never contributed or worked on a big project, look over some of the resources on how to do that. The `Free Code Camp` link is particularly jucy and coprehensive. Contributing to opensource for the first time can be overwhealming! Don't panic. It's ok, we're here for you. 
-  - Free Code Camp: [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-  - [First Timers Only](http://www.firsttimersonly.com/)
-  - Open Source Guides: [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+    - Free Code Camp: [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+    - [First Timers Only](http://www.firsttimersonly.com/)
+    - Open Source Guides: [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
 1. Familiarize yourself with how Webpack works. If you've never worked with webpack do the [Getting Started tutorial](https://webpack.github.io/docs/tutorials/getting-started/). If you already know what webpack does, now it's time to get under the hood. It's way easier to contribute when you have an idea of what's *actually happening* in the project you're working on.
 1. Look over available PR's 
-  - [D0 - 1st Contribution](https://github.com/webpack/webpack/issues?q=is%3Aissue+is%3Aopen+label%3A%22D0%3A+My+First+Commit+%28Contrib.+Difficulty%29%22)
-  - [D1 - Easy Difficulty](https://github.com/webpack/webpack/issues?q=is%3Aissue+is%3Aopen+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)
-  - [X5 - Work Required/ Help Needed](https://github.com/webpack/webpack/labels/X5%3A%20work%20required%20%28PR%20%2F%20Help%20Wanted%29)
+    - [D0 - 1st Contribution](https://github.com/webpack/webpack/issues?q=is%3Aissue+is%3Aopen+label%3A%22D0%3A+My+First+Commit+%28Contrib.+Difficulty%29%22)
+    - [D1 - Easy Difficulty](https://github.com/webpack/webpack/issues?q=is%3Aissue+is%3Aopen+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)
+    - [X5 - Work Required/ Help Needed](https://github.com/webpack/webpack/labels/X5%3A%20work%20required%20%28PR%20%2F%20Help%20Wanted%29)
 1. Ways to get help while you're working:
-  - message R
+    - message R
 
 
 ## WEBPACK: UNDER THE HOOD
