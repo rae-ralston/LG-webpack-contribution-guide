@@ -45,7 +45,14 @@ You too can start contributing to open source in just a few easy steps...
 - update the plugin documentation to for [webpack2](https://webpack.js.org/concepts/plugins/) to be as comprehensive as [webpack1](https://webpack.github.io/docs/plugins.html)
 
 **Expanding Wepack's Availability and Ease of Contribution**
-- Get webpack on [Up-For-Grabs.net](http://up-for-grabs.net/#/)
-- Optimize issue tags to suit searching.
+- Make webpack issues easy to find
+    - [Up-For-Grabs.net](http://up-for-grabs.net/#/)
+    - [issueHub](http://issuehub.io/)
+    - TODO evaluate other links in the `Contributing to open source in general` section [here](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
+    - Optimize issue tags for searching.
+- Create resources that help people understand the library.
+    - video series?
+    - monthly Q&A?
+
 
 
