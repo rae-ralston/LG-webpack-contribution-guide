@@ -25,3 +25,6 @@
 - VIDEO: [Sean's Twitch stream from 10/9](https://www.twitch.tv/videos/208289699) where he goes over how webpack works and makes contributions.
 - ARTICLE: [The new plugin system (week 22–23)](https://medium.com/webpack/the-new-plugin-system-week-22-23-c24e3b22e95)
 - VIDEO: [From start to finish: A 20-ish minute contribution to webpack](https://www.youtube.com/watch?v=ePdXHF2DfeY&feature=youtu.be)
+
+#### relevant sub libraries
+- [tappable](https://github.com/webpack/tapable)
