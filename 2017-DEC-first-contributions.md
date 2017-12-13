@@ -1,6 +1,10 @@
-# Notes for first contribution project
+# Notes for LG first contribution project
 
-### TODOS
+## ISSUES
+- [D0 - 1st Contribution](https://github.com/webpack/webpack/issues?q=is%3Aissue+is%3Aopen+label%3A%22D0%3A+My+First+Commit+%28Contrib.+Difficulty%29%22)
+- [D1 - Easy Difficulty](https://github.com/webpack/webpack/issues?q=is%3Aissue+is%3Aopen+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)
+
+## TODOS
 - upgrade the plugins api to match changes in webpack 4.0.0-alpha.
   - where can we reference the api or find what to change?
 - update the plugin documentation to for [webpack2](https://webpack.js.org/concepts/plugins/) to be as comprehensive as [webpack1](https://webpack.github.io/docs/plugins.html)
@@ -12,7 +16,7 @@
 - [Improve `PluginEnvironment` helper to support tapable's hooks #6079](https://github.com/webpack/webpack/pull/6079)
 
 ---
-
+## LEARN
 ### But how does it work tho...
 - [Webpack's Contributing Documentation](https://github.com/webpack/webpack/blob/master/CONTRIBUTING.md)
 - ARTICLE: The Contributors Guide to Webpack:
