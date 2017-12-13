@@ -6,12 +6,12 @@ A (WIP) guide for first time contributors to the webpack ecosystem.
 You too can start contributing to open source in just a few easy steps...
 1. Familiarize yourself generally with contributing to Open Source. If you've never contributed or worked on a big project, look over some of the resources on how to do that. The `Free Code Camp` link is particularly jucy and coprehensive. Contributing to opensource for the first time can be overwhelming. Don't panic! We're here for you. 
     - Free Code Camp: [How to Contribute to Open Source](https://github.com/freeCodeCamp/how-to-contribute-to-open-source)
-    - [First Timers Only](http://www.firsttimersonly.com/)
     - Open Source Guides: [How to Contribute to Open Source](https://opensource.guide/how-to-contribute/)
+    - [First Timers Only](http://www.firsttimersonly.com/)
+    - [Webpack's Contributing Documentation](https://github.com/webpack/webpack/blob/master/CONTRIBUTING.md)
     
 1. Familiarize yourself with how Webpack works. If you've never worked with webpack do the [Getting Started tutorial](https://webpack.github.io/docs/tutorials/getting-started/) so you can understand what it's like to work with. If you already know what webpack does, now it's time to get under the hood. It's way easier to contribute when you have an idea of what's *actually happening* in the project you're working on.
 
-    - [Webpack's Contributing Documentation](https://github.com/webpack/webpack/blob/master/CONTRIBUTING.md)
     - ARTICLE: The Contributors Guide to Webpack:
       - Part 1: [A(n) (eco)system overview](https://medium.com/webpack/the-contributors-guide-to-webpack-part-1-a0410cc82ca4)
       - Part 2: [Diving Deeper: Tapable, plugins and design patterns!](https://medium.com/webpack/the-contributors-guide-to-webpack-part-2-9fd5e658e08c)
