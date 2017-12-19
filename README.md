@@ -11,7 +11,9 @@ You too can start contributing to open source in just a few easy steps...
     - [Webpack's Contributing Documentation](https://github.com/webpack/webpack/blob/master/CONTRIBUTING.md)
     
 1. Familiarize yourself with how Webpack works. If you've never worked with webpack do the [Getting Started tutorial](https://webpack.github.io/docs/tutorials/getting-started/) so you can understand what it's like to work with. If you already know what webpack does, now it's time to get under the hood. It's way easier to contribute when you have an idea of what's *actually happening* in the project you're working on.
-
+    
+    - Clone and install [webpack core](https://www.github.com/webpack/webpack)
+    - Watch Sean Larkin's [conversation with LG folk](https://zoom.us/recording/play/CuEYRA04K-eBdDDcUoexryfpqXQ6IwwBHfSxr2u8UE0aiWXwS_Yrv_lhcudeB92Z) on how webpack & plugins work.
     - ARTICLE: The Contributors Guide to Webpack:
       - Part 1: [A(n) (eco)system overview](https://medium.com/webpack/the-contributors-guide-to-webpack-part-1-a0410cc82ca4)
       - Part 2: [Diving Deeper: Tapable, plugins and design patterns!](https://medium.com/webpack/the-contributors-guide-to-webpack-part-2-9fd5e658e08c)
@@ -24,7 +26,8 @@ You too can start contributing to open source in just a few easy steps...
     - VIDEO: [From start to finish: A 20-ish minute contribution to webpack](https://www.youtube.com/watch?v=ePdXHF2DfeY&feature=youtu.be)
     - RELEVANT SUB LIBRARIES
         - [tappable](https://github.com/webpack/tapable)
-1. Look over available PR's & choose something that fits your tastes and skill levels. Comment on that sla
+1. Grab an issue from webpack core or look over our projects board to find something to work on.
+    - [Our Project Board](https://github.com/rachel-ftw/LG-webpack-contribution-guide/projects)
     - [D0 - 1st Contribution](https://github.com/webpack/webpack/issues?q=is%3Aissue+is%3Aopen+label%3A%22D0%3A+My+First+Commit+%28Contrib.+Difficulty%29%22)
     - [D1 - Easy Difficulty](https://github.com/webpack/webpack/issues?q=is%3Aissue+is%3Aopen+label%3A%22D1%3A+Easy+%28Contrib.+Difficulty%29%22)
     - [X5 - Work Required/ Help Needed](https://github.com/webpack/webpack/labels/X5%3A%20work%20required%20%28PR%20%2F%20Help%20Wanted%29)
