@@ -36,7 +36,12 @@ You too can start contributing to open source in just a few easy steps...
     - comment on the issue and tag [??] and ask for clarifications or feedback.
     - chat with folks on Webpack's internal slack for help.
 
-## Apprentice Phase
+## Schedule
+All are welcome at standup!
+For apprentice phase folks please:
+- Submit your work plan on Monday morning
+- Attend daily 1pm Standup
+- Attend retros on Friday
 
 
 ## TODOS & NOTES
